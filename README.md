@@ -1,1 +1,1 @@
-# spinach-mania
+# spinach-mania.github.io
